@@ -1,31 +1,23 @@
 {
-  "name": "plustest",
-  "description": "plustest",
-  "version": "2.0.0",
-  "main": "test.js",
-  "scripts": {
-    "start": "node test.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/then/fs.git"
-  },
-  "keywords": [
-    "promise",
-    "then",
-    "fs",
-    "core"
-  ],
-  "author": "Nathan Zadoks",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/then/fs/issues"
-  },
-  "devDependencies": {
-    "bash-color": "0.0.3"
-  },
+  "name": "chat-example",
+  "version": "0.0.0",
+  "description": "A chat example to showcase how to use `socket.io` with a static `express` server with `async` for control flow.",
+  "main": "bot.js",
+  "repository": "",
+  "author": "Mostafa Eweda <mo.eweda@gmail.com>",
   "dependencies": {
-  "fs": "0.0.1-security",
-  "discord.js": "11.1.0"
-    }
+    "async": "~0.2.8",
+    "cheerio": "^1.0.0-rc.2",
+    "codes-official": "0.0.15",
+    "discord.js": "^11.4.2",
+    "eris": "^0.9.0",
+    "ffmpeg-binaries": "^4.0.0",
+    "fs": "0.0.1-security",
+    "got": "^9.2.2",
+    "mojang-api": "0.0.2",
+    "path": "^0.12.7",
+    "request": "^2.88.0",
+    "snekfetch": "^4.0.4",
+    "socket.io": "~0.9.14"
+  }
 }
