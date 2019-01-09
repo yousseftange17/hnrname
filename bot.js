@@ -4,7 +4,7 @@ const bot = new Discord.Client();
 
 
 
-const devs = ['422020514966405130' , '474200581163057153' , '422020514966405130' , '', '' , '' , ''];
+const devs = ['440081527909515265' , '474200581163057153' , '' , '', '' , '' , ''];
 const adminprefix = "#";
 bot.on('message', message => {
     var argresult = message.content.split(` `).slice(1).join(' ');
