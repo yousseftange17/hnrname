@@ -71,6 +71,45 @@ BT.editChannel("532664515490349056", {name : "Welcome To HH "})
 BT.editChannel("532664515490349056", {name : "Welcome To HNR"})
 }, 10000);
 });
+BT.on("ready", ready => {
+setInterval(function(){
+
+BT.editChannel("535896699445444608", {name : "W"})
+BT.editChannel("535896699445444608", {name : "We"})
+BT.editChannel("535896699445444608", {name : "Wel"})
+BT.editChannel("535896699445444608", {name : "Welc"})
+BT.editChannel("535896699445444608", {name : "Welcom"})
+BT.editChannel("535896699445444608", {name : "Welcome"})
+BT.editChannel("535896699445444608", {name : "Welcome T"})
+BT.editChannel("535896699445444608", {name : "Welcome To"})
+BT.editChannel("535896699445444608", {name : "Welcome To H"})
+BT.editChannel("535896699445444608", {name : "Welcome To HH "})
+BT.editChannel("535896699445444608", {name : "Welcome To HNR"})
+BT.editChannel("535896699445444608", {name : "Welcome To HNR"})
+BT.editChannel("535896699445444608", {name : "Welcome To HN"})
+BT.editChannel("535896699445444608", {name : "Welcome To H"})
+BT.editChannel("535896699445444608", {name : "Welcome To"})
+BT.editChannel("535896699445444608", {name : "Welcome T"})
+BT.editChannel("535896699445444608", {name : "Welcome"})
+BT.editChannel("535896699445444608", {name : "Welcom"})
+BT.editChannel("535896699445444608", {name : "Welco"})
+BT.editChannel("535896699445444608", {name : "Welc"})
+BT.editChannel("535896699445444608", {name : "Wel"})
+BT.editChannel("535896699445444608", {name : "We"})
+BT.editChannel("535896699445444608", {name : "W"})
+BT.editChannel("535896699445444608", {name : "W"})
+BT.editChannel("535896699445444608", {name : "We"})
+BT.editChannel("535896699445444608", {name : "Wel"})
+BT.editChannel("535896699445444608", {name : "Welc"})
+BT.editChannel("535896699445444608", {name : "Welcom"})
+BT.editChannel("535896699445444608", {name : "Welcome"})
+BT.editChannel("535896699445444608", {name : "Welcome T"})
+BT.editChannel("535896699445444608", {name : "Welcome To"})
+BT.editChannel("535896699445444608", {name : "Welcome To H"})
+BT.editChannel("535896699445444608", {name : "Welcome To HH "})
+BT.editChannel("535896699445444608", {name : "Welcome To HNR"})
+}, 10000);
+});
 var eris = new Eris(process.env.BOT_TOKEN);
 
 
